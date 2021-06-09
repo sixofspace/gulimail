@@ -1,0 +1,76 @@
+2021-06-09 14:32:56,115 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:33:44,535 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:48:02,260 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:48:15,510 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:48:20,373 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:48:30,523 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:48:42,522 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:48:57,346 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:50:10,690 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:50:17,312 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 14:51:20,472 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:51:20,472 INFO serviceName: DEFAULT_GROUP@@gulimail-coupon changed, schedule push for: 192.168.56.1:65129, agent: Nacos-Java-Client:v1.1.1, key: 192.168.56.1,65129,87313781947800
+
+2021-06-09 14:51:20,473 INFO send udp packet: 192.168.56.1,65129,87313781947800
+
+2021-06-09 14:51:20,481 INFO received ack: {"type": "push-ack", "lastRefTime":"87313781947800", "data":""} from: 192.168.56.1:, cost: 65129 ms, unacked: 8, total push: 0
+
+2021-06-09 14:51:35,484 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 14:51:35,484 INFO serviceName: DEFAULT_GROUP@@gulimail-coupon changed, schedule push for: 192.168.56.1:65129, agent: Nacos-Java-Client:v1.1.1, key: 192.168.56.1,65129,87328794001900
+
+2021-06-09 14:51:35,484 INFO send udp packet: 192.168.56.1,65129,87328794001900
+
+2021-06-09 14:51:35,493 INFO received ack: {"type": "push-ack", "lastRefTime":"87328794001900", "data":""} from: 192.168.56.1:, cost: 65129 ms, unacked: 9, total push: 0
+
+2021-06-09 15:09:50,949 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 15:10:05,957 INFO DEFAULT_GROUP@@gulimail-member is changed, add it to push queue.
+
+2021-06-09 15:22:10,687 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 15:26:00,944 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 15:26:04,710 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 15:29:00,982 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 15:33:36,040 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 15:33:37,355 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 16:33:24,140 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:33:44,059 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:33:49,142 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:33:59,151 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:39:04,537 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:41:53,041 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:42:44,295 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 16:42:47,820 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 17:37:37,940 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 17:37:39,918 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+
+2021-06-09 17:37:52,949 INFO DEFAULT_GROUP@@gulimail-coupon is changed, add it to push queue.
+
+2021-06-09 17:37:54,922 INFO DEFAULT_GROUP@@gulimail-gateway is changed, add it to push queue.
+

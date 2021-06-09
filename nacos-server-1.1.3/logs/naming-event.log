@@ -1,0 +1,152 @@
+2021-06-09 14:32:55,100 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:32:55,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 14:32:55,122 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:32:55,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 14:33:43,494 INFO DEFAULT_GROUP@@gulimail-member {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:33:43,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 10.100.50.77:8000_true,
+
+2021-06-09 14:33:43,510 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 10.100.50.77:8000_true,
+
+2021-06-09 14:48:01,258 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623221265807
+
+2021-06-09 14:48:14,509 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:8000@DEFAULT@DEFAULT_GROUP@@gulimail-member, region: unknown, msg: client timeout after 15000, last beat: 1623221275823
+
+2021-06-09 14:48:19,372 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 14:48:19,372 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 14:48:19,372 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 14:48:19,372 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 14:48:29,523 INFO DEFAULT_GROUP@@gulimail-member {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 14:48:29,523 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 
+
+2021-06-09 14:48:41,519 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:48:41,520 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 14:48:41,521 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:48:41,521 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 14:48:56,344 INFO DEFAULT_GROUP@@gulimail-member {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 14:48:56,344 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 10.100.50.77:8000_true,
+
+2021-06-09 14:48:56,357 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 10.100.50.77:8000_true,
+
+2021-06-09 14:50:09,690 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:8000@DEFAULT@DEFAULT_GROUP@@gulimail-member, region: unknown, msg: client timeout after 15000, last beat: 1623221391424
+
+2021-06-09 14:50:16,310 INFO service: DEFAULT_GROUP@@gulimail-member {POS} {IP-ENABLED} valid: 10.100.50.77:8000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-09 14:50:16,318 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 10.100.50.77:8000_true,
+
+2021-06-09 14:51:19,472 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623221461741
+
+2021-06-09 14:51:19,472 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623221461741
+
+2021-06-09 14:51:34,482 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 14:51:34,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 14:51:34,482 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 14:51:34,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 15:09:49,949 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:8000@DEFAULT@DEFAULT_GROUP@@gulimail-member, region: unknown, msg: client timeout after 15000, last beat: 1623222572555
+
+2021-06-09 15:10:04,956 INFO DEFAULT_GROUP@@gulimail-member {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:8000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 15:10:04,956 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-member, ips: 
+
+2021-06-09 15:22:09,685 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 15:22:09,685 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:22:09,686 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 15:22:09,686 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:22:09,692 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:22:09,693 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:25:59,943 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623223544915
+
+2021-06-09 15:26:03,709 INFO service: DEFAULT_GROUP@@gulimail-coupon {POS} {IP-ENABLED} valid: 10.100.50.77:7000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-09 15:26:03,717 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:26:03,717 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:28:59,982 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623223723873
+
+2021-06-09 15:29:00,820 INFO service: DEFAULT_GROUP@@gulimail-coupon {POS} {IP-ENABLED} valid: 10.100.50.77:7000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-09 15:29:00,830 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:29:00,831 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:33:35,039 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623223996094
+
+2021-06-09 15:33:36,353 INFO service: DEFAULT_GROUP@@gulimail-coupon {POS} {IP-ENABLED} valid: 10.100.50.77:7000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-09 15:33:36,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 15:33:36,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 10.100.50.77:7000_true,
+
+2021-06-09 16:33:23,137 INFO DEFAULT_GROUP@@gulimail-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:80:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 16:33:23,137 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:80_true,
+
+2021-06-09 16:33:23,146 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:80_true,
+
+2021-06-09 16:33:43,058 INFO DEFAULT_GROUP@@gulimail-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.100.50.77:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2021-06-09 16:33:43,059 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,10.100.50.77:80_true,
+
+2021-06-09 16:33:43,065 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,10.100.50.77:80_true,
+
+2021-06-09 16:33:48,142 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:80@DEFAULT@DEFAULT_GROUP@@gulimail-gateway, region: unknown, msg: client timeout after 15000, last beat: 1623227608145
+
+2021-06-09 16:33:58,150 INFO DEFAULT_GROUP@@gulimail-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:80:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 16:33:58,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,
+
+2021-06-09 16:39:03,536 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,
+
+2021-06-09 16:41:52,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,
+
+2021-06-09 16:42:43,294 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:88@DEFAULT@DEFAULT_GROUP@@gulimail-gateway, region: unknown, msg: client timeout after 15000, last beat: 1623228147057
+
+2021-06-09 16:42:46,819 INFO service: DEFAULT_GROUP@@gulimail-gateway {POS} {IP-ENABLED} valid: 10.100.50.77:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-06-09 16:42:46,827 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 10.100.50.77:88_true,
+
+2021-06-09 17:37:36,939 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:7000@DEFAULT@DEFAULT_GROUP@@gulimail-coupon, region: unknown, msg: client timeout after 15000, last beat: 1623231438092
+
+2021-06-09 17:37:38,918 INFO {POS} {IP-DISABLED} valid: 10.100.50.77:88@DEFAULT@DEFAULT_GROUP@@gulimail-gateway, region: unknown, msg: client timeout after 15000, last beat: 1623231439291
+
+2021-06-09 17:37:51,948 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 17:37:51,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 17:37:51,948 INFO DEFAULT_GROUP@@gulimail-coupon {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:7000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 17:37:51,948 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 17:37:51,949 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 17:37:51,950 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-coupon, ips: 
+
+2021-06-09 17:37:53,922 INFO DEFAULT_GROUP@@gulimail-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.100.50.77:88:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2021-06-09 17:37:53,922 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimail-gateway, ips: 
+
