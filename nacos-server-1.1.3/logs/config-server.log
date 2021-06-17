@@ -1,68 +1,70 @@
-2021-06-09 14:32:20,654 INFO notifyConnectTimeout:200
+2021-06-17 13:20:18,462 INFO notifyConnectTimeout:200
 
-2021-06-09 14:32:20,712 INFO notifySocketTimeout:8000
+2021-06-17 13:20:18,466 INFO notifySocketTimeout:8000
 
-2021-06-09 14:32:20,712 INFO isHealthCheck:true
+2021-06-17 13:20:18,466 INFO isHealthCheck:true
 
-2021-06-09 14:32:20,712 INFO maxHealthCheckFailCount:12
+2021-06-17 13:20:18,466 INFO maxHealthCheckFailCount:12
 
-2021-06-09 14:32:20,712 INFO maxContent:10485760
+2021-06-17 13:20:18,467 INFO maxContent:10485760
 
-2021-06-09 14:32:25,383 INFO Schema 'NACOS' already exists.
+2021-06-17 13:20:19,348 INFO Schema 'NACOS' already exists.
 
-2021-06-09 14:32:25,626 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,420 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:25,859 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,489 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,079 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,528 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,211 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,544 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,320 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,560 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,439 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,579 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,536 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,592 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,689 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,607 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,789 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,621 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:26,905 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,643 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:27,003 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,668 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:27,137 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,682 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:27,247 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,703 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:27,359 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+2021-06-17 13:20:19,717 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
 
-2021-06-09 14:32:27,466 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL210608105607120' defined on 'USERS'.
+2021-06-17 13:20:19,836 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL210608105607120' defined on 'USERS'.
 
-2021-06-09 14:32:28,047 INFO ServerListService address-server port:8848
+2021-06-17 13:20:20,272 INFO ServerListService address-server port:8848
 
-2021-06-09 14:32:28,047 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+2021-06-17 13:20:20,272 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
 
-2021-06-09 14:32:28,052 WARN [serverlist] updated to [10.100.50.77]
+2021-06-17 13:20:20,277 WARN [serverlist] updated to [10.100.50.77]
 
-2021-06-09 14:32:28,207 WARN DumpService start
+2021-06-17 13:20:20,469 WARN DumpService start
 
-2021-06-09 14:32:28,213 INFO start clear all config-info.
+2021-06-17 13:20:20,475 INFO start clear all config-info.
 
-2021-06-09 14:32:28,218 WARN clear all config-info failed.
+2021-06-17 13:20:20,482 WARN clear all config-info failed.
 
-2021-06-09 14:32:28,218 WARN clear all config-info-tenant failed.
+2021-06-17 13:20:20,482 WARN clear all config-info-tenant failed.
 
-2021-06-09 14:32:28,307 INFO start clear all config-info-beta.
+2021-06-17 13:20:20,667 INFO [all-dump] 18 / 18
 
-2021-06-09 14:32:28,308 WARN clear all config-info-beta failed.
+2021-06-17 13:20:20,667 INFO start clear all config-info-beta.
 
-2021-06-09 14:32:28,308 WARN clear all config-info-beta-tenant failed.
+2021-06-17 13:20:20,667 WARN clear all config-info-beta failed.
 
-2021-06-09 14:32:28,324 INFO start clear all config-info-tag.
+2021-06-17 13:20:20,667 WARN clear all config-info-beta-tenant failed.
 
-2021-06-09 14:32:28,324 WARN clear all config-info-tag failed.
+2021-06-17 13:20:20,689 INFO start clear all config-info-tag.
 
-2021-06-09 14:32:28,324 WARN clear all config-info-tag-tenant failed.
+2021-06-17 13:20:20,689 WARN clear all config-info-tag failed.
+
+2021-06-17 13:20:20,689 WARN clear all config-info-tag-tenant failed.
 

@@ -2,6 +2,13 @@ spring:
   cloud:
     gateway:
       routes:
+#        精确优先级路由需要放在模糊路由之前，以免被模糊路由先匹配
+        - id: product_route
+          uri: lb://gulimail-product
+          predicates:
+            - Path=/api/product/**
+          filters:
+            - RewritePath=/api/(?<segment>/?.*),/$\{segment}
         - id: admin_route
           uri: lb://renren-fast
           predicates:

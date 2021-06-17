@@ -1,2 +1,6 @@
-2021-06-09 15:39:11,321 WARN [dump-ignore] ignore to save cache file. groupKey=gulimail-coupon.properties+DEFAULT_GROUP, md5=5328fcea9090c632245492420bec79d9, lastModifiedOld=1623224341150, lastModifiedNew=1623224351236
+2021-06-17 13:20:20,662 INFO [dump-all-ok] gulimail-gateway.yml+DEFAULT_GROUP, 1623227341849, length=57, md5=9e5827215ebbf807bcf8f8ecf8c8d8c0
+
+2021-06-17 13:20:20,666 INFO [dump-all-ok] gulimail-coupon.properties+DEFAULT_GROUP, 1623313868459, length=45, md5=65e43fb882d4e38d0029c3b101d1ec1e
+
+2021-06-17 13:20:20,667 INFO [dump-all-ok] gulimail-coupon.properties+DEFAULT_GROUP, 1623314282204, length=45, md5=28a6a8cb78ea1729c9efb06e1cc47844
 
